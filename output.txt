@@ -1,0 +1,14 @@
+Let's xor vector and int*: 
+Vector: capacity 5 --> 1 2 3 5 7 
+int*: capacity 5 --> 2 3 5 7 8 
+Result of xor vector and int*: capacity 5 --> 3 1 6 2 15 
+Let's look at the empty vector: 
+Empty vector: capacity 0 --> 
+Let's look at not filled vector: 
+Not filled vector: capacity 5 --> 0 0 0 0 0 
+Let's copy the etalon vector: 
+Etalon: capacity 5 --> 1 2 3 5 7 
+Copied: capacity 5 --> 1 2 3 5 7 
+Let's move the etalon vector:
+Etalon: capacity 5 --> 0 0 0 0 0 
+Moved: capacity 5 --> 1 2 3 5 7 
